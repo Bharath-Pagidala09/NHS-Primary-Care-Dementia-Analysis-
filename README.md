@@ -3,7 +3,7 @@
 ## Overview
 This project analyses NHS Primary Care dementia data for the UK, 
 focusing on adults aged 65 and over. Two interactive visualisations 
-were built using Tableau Public — one targeting a public news audience 
+were built using Tableau Public - one targeting a public news audience 
 and one aimed at NHS Directors for internal planning and resource 
 allocation. Data preprocessing was carried out using Excel Power Pivot 
 and Python before visualisation.
