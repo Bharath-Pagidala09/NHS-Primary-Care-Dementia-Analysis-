@@ -18,7 +18,7 @@ analysis:
 
 - The Cognitive Impairment dataset had an unclean measure column 
   containing values like MCI_GENDER_AGED_X_Y. Using Power Pivot and 
-  a delimiter, this was split into two separate fields — Gender and 
+  a delimiter, this was split into two separate fields Gender and 
   Age Range
 - The Dementia Type dataset originally stored dementia types as row 
   values in a single column. Using Python, the dataset was transposed 
